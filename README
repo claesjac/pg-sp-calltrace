@@ -1,0 +1,4 @@
+pg-sp-calltrace - Runtime call-tracing of stored procedures
+===========================================================
+
+This hack will generate dot files for graphviz of how your SPs call each other
